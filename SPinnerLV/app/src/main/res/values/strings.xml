@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SPinnerLV</string>
+
+    <string name="menu">菜單</string>
+    <string-array name="menu_categories">
+        <item>主餐</item>
+        <item>附餐</item>
+        <item>飲料</item>
+    </string-array>
+    <string-array name="action_categories">
+        <item>送出</item>
+        <item>取消</item>
+    </string-array>
+</resources>
